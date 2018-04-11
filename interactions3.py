@@ -1,4 +1,3 @@
-
 from selenium import webdriver
 from time import sleep
 driver = webdriver.Chrome()
@@ -13,4 +12,3 @@ for everylink in range(1, len(abc)+1):
     sleep(5)
     icon.click()
 driver.close()
-
