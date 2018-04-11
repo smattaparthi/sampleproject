@@ -1,5 +1,4 @@
-# assignment - do interactions2 code using for loop
-#hint = one digit changing "li"
+
 from selenium import webdriver
 from time import sleep
 driver = webdriver.Chrome()
